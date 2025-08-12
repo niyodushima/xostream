@@ -26,6 +26,7 @@ yarn dev
 pnpm dev
 # or
 bun dev
+<<<<<<< HEAD
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
@@ -52,3 +53,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 =======
 >>>>>>> 4058a58 (Initial commit)
 >>>>>>> c491749 (Add next.config.js wrapper)
+=======
+>>>>>>> c7d6432a0a6de9aad2406d260737c2ec525c289f

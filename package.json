@@ -1,28 +1,30 @@
 {
   "name": "xostream",
   "version": "0.1.0",
-  "private": true,
   "scripts": {
-    "dev": "next dev --turbopack",
+    "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    "next": "15.4.6",
+>>>>>>> c7d6432a0a6de9aad2406d260737c2ec525c289f
     "react": "19.1.0",
-    "react-dom": "19.1.0",
-    "next": "15.4.6"
+    "react-dom": "19.1.0"
   },
   "devDependencies": {
-    "typescript": "^5",
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "@tailwindcss/postcss": "^4",
-    "tailwindcss": "^4",
     "eslint": "^9",
     "eslint-config-next": "15.4.6",
+<<<<<<< HEAD
     "@eslint/eslintrc": "^3"
 =======
     "@next/env": "^15.4.6",
@@ -41,5 +43,9 @@
     "tailwindcss": "^4",
     "typescript": "^5"
 >>>>>>> c491749 (Add next.config.js wrapper)
+=======
+    "tailwindcss": "^4",
+    "typescript": "^5"
+>>>>>>> c7d6432a0a6de9aad2406d260737c2ec525c289f
   }
 }
