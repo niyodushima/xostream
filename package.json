@@ -20,9 +20,7 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "15.4.6",
-<<<<<<< HEAD
     "@eslint/eslintrc": "^3"
-=======
     "@next/env": "^15.4.6",
     "next": "15.4.6",
     "react": "19.1.0",
@@ -38,10 +36,7 @@
     "eslint-config-next": "15.4.6",
     "tailwindcss": "^4",
     "typescript": "^5"
->>>>>>> c491749 (Add next.config.js wrapper)
-=======
     "tailwindcss": "^4",
     "typescript": "^5"
->>>>>>> c7d6432a0a6de9aad2406d260737c2ec525c289f
   }
 }
