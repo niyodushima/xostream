@@ -1,4 +1,10 @@
-require('@next/env').loadEnvConfig(process.cwd());
-const config = require('./next.config.ts').default;
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  reactStrictMode: true,
+  swcMinify: true,
+  experimental: {
+    serverActions: true
+  }
+};
 
-module.exports = config;
+module.exports = nextConfig;
