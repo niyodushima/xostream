@@ -8,11 +8,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
     "next": "15.4.6",
->>>>>>> c7d6432a0a6de9aad2406d260737c2ec525c289f
     "react": "19.1.0",
     "react-dom": "19.1.0"
   },
